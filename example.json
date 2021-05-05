@@ -4,12 +4,8 @@
   "recordsFiltered": 57,
   "data": [
       {
-      "Airi",
-      "Satou",
-      "Accountant",
-      "Tokyo",
-      "28th Nov 08",
-      "$162,700"
+        "name": "Airi",
+       "position": "Accountant"
     }
   ]
 }
