@@ -1,10 +1,14 @@
 {
   "draw": 1,
-  "recordsTotal": 57,
-  "recordsFiltered": 57,
+  "recordsTotal": 2,
+  "recordsFiltered": 2,
   "data": [
       {
         "name": "Airi",
+       "position": "Accountant"
+    },
+      {
+        "name": "Akbar",
        "position": "Accountant"
     }
   ]
